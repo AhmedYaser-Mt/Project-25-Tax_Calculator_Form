@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\m\\source\\repos\\Project 25 [ Tax Calculator Form ]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0AD145-BEA7-4F76-BBDD-39B5F5C38A84}|Project 25 [ Tax Calculator Form ].csproj|e:\\users\\m\\source\\repos\\project 25 [ tax calculator form ]\\frmtaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB0AD145-BEA7-4F76-BBDD-39B5F5C38A84}|Project 25 [ Tax Calculator Form ].csproj|solutionrelative:frmtaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0AD145-BEA7-4F76-BBDD-39B5F5C38A84}|Project 25 [ Tax Calculator Form ].csproj|e:\\users\\m\\source\\repos\\project 25 [ tax calculator form ]\\frmtaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0AD145-BEA7-4F76-BBDD-39B5F5C38A84}|Project 25 [ Tax Calculator Form ].csproj|solutionrelative:frmtaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTaxCalculator.cs",
+              "DocumentMoniker": "E:\\Users\\m\\source\\repos\\Project 25 [ Tax Calculator Form ]\\frmTaxCalculator.cs",
+              "RelativeDocumentMoniker": "frmTaxCalculator.cs",
+              "ToolTip": "E:\\Users\\m\\source\\repos\\Project 25 [ Tax Calculator Form ]\\frmTaxCalculator.cs*",
+              "RelativeToolTip": "frmTaxCalculator.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T10:57:06.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTaxCalculator.cs [Design]",
+              "DocumentMoniker": "E:\\Users\\m\\source\\repos\\Project 25 [ Tax Calculator Form ]\\frmTaxCalculator.cs",
+              "RelativeDocumentMoniker": "frmTaxCalculator.cs",
+              "ToolTip": "E:\\Users\\m\\source\\repos\\Project 25 [ Tax Calculator Form ]\\frmTaxCalculator.cs [Design]*",
+              "RelativeToolTip": "frmTaxCalculator.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T10:20:50.797Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
