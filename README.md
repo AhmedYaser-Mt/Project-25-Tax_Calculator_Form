@@ -4,6 +4,11 @@
 
 ---
 
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/b9433b91-f4e8-440d-a404-76bea2887d34" />
+
+
+---
+
 ## 🚀 Project Overview
 
 This is the **first external practice project** in C# after completing Course 14 (C# Level 1).
